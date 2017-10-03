@@ -153,6 +153,8 @@ nav ul li.selected {
 
 #validCss {
   float: right;
-  padding: 0px 0px 10px 0px;
-  text-decoration:  none;
+}
+
+#validhtml {
+  float: left;
 }
